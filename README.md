@@ -3,5 +3,6 @@ Git Demo
 
 # Git is hard
 
-Test comment from Gerardo 
+Test comment from Gerardo
+
 Adding a second comment by Gerardo 
